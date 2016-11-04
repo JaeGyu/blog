@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf8"/>
+</head>
+<body>
+	<h2>Hello ${name}</h2>
+	<div>Velocity version!</div>
+</body>
+</html>
